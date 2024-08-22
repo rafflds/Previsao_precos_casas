@@ -24,8 +24,8 @@ Este projeto demonstra o uso do PySpark para processar um conjunto de dados imob
 - pip install pyspark
 
 **Clonar o Repositório:**
-- git clone https://github.com/seuusuario/previsao-precos-casas-pyspark.git
-cd previsao-precos-casas-pyspark
+- [git clone https://github.com/seuusuario/previsao-precos-casas-pyspark.git
+cd previsao-precos-casas-pyspark](https://github.com/rafflds/Previsao_precos_casas.git)
 
 ## Conjunto de Dados:
 Certifique-se de que o arquivo house_prices.csv está disponível no diretório do projeto. Se não estiver, coloque o conjunto de dados na pasta raiz.
